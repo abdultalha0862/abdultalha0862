@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdulta62185243" target="blank"><img src="https://img.shields.io/twitter/follow/abdulta62185243?logo=twitter&style=for-the-badge" alt="abdulta62185243" /></a> </p>
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
