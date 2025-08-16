@@ -1,29 +1,71 @@
 <h1 align="center">Hi 👋, I'm Abdul Talha</h1>
-<h3 align="center">Java & Python Developer | Deep Learning Enthusiast | Expert in PyTorch & TensorFlow | Passionate about Machine Learning & OpenCV | Published Researcher | Seeking Opportunities to Innovate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdultalha0862&label=Profile%20views&color=0e75b6&style=flat" alt="abdultalha0862" /> </p>
+<h3 align="center">Full Stack Developer | Turned 4-hour tasks into 20-second solutions | React • Python • Web Applications | Open Source Contributor</h3>
 
-<p align="left"> <a href="https://twitter.com/abdulta62185243" target="blank"><img src="https://img.shields.io/twitter/follow/abdulta62185243?logo=twitter&style=for-the-badge" alt="abdulta62185243" /></a> </p>
+## 🚀 About me:
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+🔭 I'm currently working on **Ghost** - [Link](https://github.com/TryGhost/Ghost)
 
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
+👯 I'm looking to collaborate on **Slot Booking System** - [Link](https://github.com/abdultalha0862/Slot-Booking-System)
 
-- 🤝 I’m looking for help with **Optimizing Machine Learning and Deep Learning Models, Exploring new Deep Learning Techniques, and collaborating on innovative AI projects.**
+🤝 I'm looking for help with **Ghost**
 
-- 📫 How to reach me **abdultallha9654@gmail.com**
+🌱 I'm currently learning **https://github.com/TryGhost/Ghost**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdulta62185243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulta62185243" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//abdul-talha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/abdul-talha/" height="30" width="40" /></a>
-</p>
+💬 Ask me about **Full Stack Web Developement**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+⚡ Fun fact: **Always learning New Technolgies**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdultalha0862&show_icons=true&locale=en&layout=compact" alt="abdultalha0862" /></p>
+📝 I write articles on [My Blog](https://blog.abdultalha.tech)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdultalha0862&show_icons=true&locale=en" alt="abdultalha0862" /></p>
+📄 My resume: [View Resume](https://drive.google.com/file/d/1e1JrPk0nPciLJeAe7iiiHoBFwN-43IA3/view?usp=sharing)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdultalha0862&" alt="abdultalha0862" /></p>
+📫 How to reach me: [abdul@abdultalha.tech](mailto:abdul@abdultalha.tech)
+
+## 🌐 Connect with me:
+<a href="https://github.com/abdultalha0862" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/abdul-talha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40" /></a> <a href="https://hashnode.com/@@abdultalha3226" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="hashnode" width="40" height="40" /></a> <a href="https://dev.to/abdultalha08" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" width="40" height="40" /></a> <a href="https://twitter.com/https://x.com/AbdulTa62185243" target="_blank"><img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="twitter" width="40" height="40" /></a> <a href="https://leetcode.com/abdultalha08" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png" alt="leetcode" width="40" height="40" /></a> 
+
+## 🛠️ Languages and Tools:
+
+### Programming Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
+
+### Frontend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
+
+### Backend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
+
+### Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/> 
+
+### DevOps
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+
+### Version Control
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+
+## 📊 GitHub Statistics:
+
+![Abdul Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdultalha0862&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdultalha0862&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdultalha0862&theme=dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdultalha0862&theme=darkhub)
+
+## 💼 Featured Projects:
+
+### [GitHub Profile Readme Generator](https://readmegen.abdultalha.tech/)
+GitHub README Generator is a web app that creates professional GitHub profile READMEs from simple form inputs, with no need to use Markdown. It features a tabbed editor that allows you to see changes live, a smart skill picker with over 200 tech options and auto icons, and integrates with GitHub to show stats, streaks, top languages, and trophies. You can export your README to Markdown, HTML, PDF, or TXT, and it automatically saves your work. This tool is perfect for developers who want a polished README quickly.
+**Technologies:** React, TypeScript, Vite, TailwindCSS
+
+### [Linkedin Connection Tracker](https://linkedin-tracker.abdultalha.tech/)
+This project is a web app called LinkedIn Connection Tracker. It looks like LinkedIn’s network dashboard. Users can view and manage their connections, track invitations, find people they might know, and explore college connections. The app has a modern, responsive design and is built using Vite, HTML, CSS, and JavaScript ES modules.
+**Technologies:** Vite, HTML5, CSS3, JavaScript
+
+### [Slot Booking System](https://docbook.abdultalha.tech/)
+This project is a Slot Booking System that helps medical facilities manage appointment scheduling. It allows patients to easily book appointments with doctors and see available slots. Patients can also manage their bookings. Administrators can oversee appointments, manage doctor profiles, and track system metrics. This system provides a simple and efficient platform for both patients and staff.
+**Technologies:** React, TypeScript, Vite, TailwindCSS, PostCSS
+
