@@ -5,10 +5,15 @@
 ## 🚀 About me:
 
 🔭 I'm an active **Open Source Contributor** to **[Ghost](https://github.com/TryGhost/Ghost)**.
+
 🌱 I'm currently building high-impact **AI-powered automations** and full-stack applications.
+
 💬 Ask me about **Full Stack Development, Python, AI/ML, or React**.
+
 📝 I write technical case studies on [My Blog](https://blog.abdultalha.tech).
+
 📄 My resume: [View Resume](https://drive.google.com/file/d/1e1JrPk0nPciLJeAe7iiiHoBFwN-43IA3/view?usp=sharing)
+
 📫 How to reach me: [abdul@abdultalha.tech](mailto:abdul@abdultalha.tech)
 
 ## 🌐 Connect with me:
@@ -23,7 +28,7 @@
 
 ## 💼 Featured Projects:
 
-### [Python Resume Parser (4 Hours to 20 Seconds)](https://github.com/abdultalha0862/Resume-Parser-Using-Python)
+### [Python Resume Parser (From 4 Hours to 20 Seconds)](https://blog.abdultalha.tech/from-4-hours-to-20-seconds-saving-16-hoursweek-with-a-python-resume-parser?showSharer=true)
 A high-performance Python automation tool that saved a freelance client 16+ hours/week. It uses `multiprocessing` to parse and rank 500+ resumes (PDF, DOCX) in 20 seconds, a task that previously took 4 hours.
 **Technologies:** Python, Multiprocessing, PyPDF2, python-docx
 
@@ -50,17 +55,20 @@ A web app built with React that creates professional GitHub profile READMEs from
 ### Backend
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
 
+### AI / Machine Learning
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+
 ### Databases
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
 
 ### DevOps & Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
 
 ## 📊 GitHub Statistics:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdultalha0862&show_icons=true&theme=dark" alt="Abdul Talha's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdultalha0862&layout=compact&theme=dark" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdultalha0862&theme=dark" alt="GitHub Streak" />
+<img src="https-readme-streak-stats.herokuapp.com/?user=abdultalha0862&theme=dark" alt="GitHub Streak" />
 <img src="https://github-profile-trophy.vercel.app/?username=abdultalha0862&theme=darkhub" alt="GitHub Trophies" />
 </p>
