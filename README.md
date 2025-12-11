@@ -4,7 +4,7 @@
 
 ## 🚀 About me:
 
-🔭 I'm an active **Open Source Contributor** to **[Ghost](https://github.com/TryGhost/Ghost)**.
+🔭 I'm an active **Open Source Contributor** to **[Zulip](https://github.com/zulip/zulip)**.
 
 🌱 I'm currently building high-impact **AI-powered automations** and full-stack applications.
 
