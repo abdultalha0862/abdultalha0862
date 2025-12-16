@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdul Talha</h1>
 
-<h3 align="center">Full Stack Developer (AI/ML) | Python • React • Node.js | Open Source Contributor @ Ghost | IEEE Published</h3>
+<h3 align="center">Full Stack Developer (AI/ML) | Python • React • Node.js | Open Source Contributor (Zulip & Ghost) | IEEE and ScienceDirect Published</h3>
 
 ## 🚀 About me:
 
 🔭 I'm an active **Open Source Contributor** to **[Zulip](https://github.com/zulip/zulip)**.
 
-🌱 I'm currently building high-impact **AI-powered automations** and full-stack applications.
+🌱 I'm currently building high-impact **Custom Automations** and Full-Stack Applications.
 
 💬 Ask me about **Full Stack Development, Python, AI/ML, or React**.
 
