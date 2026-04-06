@@ -15,7 +15,7 @@
 - Technical Writer contributing to **[Vultr](https://docs.vultr.com/author/abdul-talha)** and **[freeCodeCamp](https://www.freecodecamp.org/news/author/abdultalha3226/)**
 - Open Source Contributor to **[Mautic](https://github.com/mautic/low-no-code/pulls/abdultalha0862)** 
 - Co-authored research published on **IEEE Xplore** and **ScienceDirect (Elsevier)**
-- I write debugging deep dives, automation case studies, and developer tutorials at **[blog.abdultalha.tech](https://blog.abdultalha.tech)**
+- I write debugging deep dives, automation case studies, and developer tutorials at **[blog.abdultalha.tech/portfolio](https://blog.abdultalha.tech/portfolio)**
 
 - Contact: [abdul@abdultalha.tech](mailto:abdul@abdultalha.tech)
 
