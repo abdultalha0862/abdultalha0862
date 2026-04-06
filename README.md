@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdul Talha 👋</h1>
 
-<h3 align="center">Full-Stack Developer &nbsp;|&nbsp; Technical Writer &nbsp;|&nbsp; IEEE & ScienceDirect Published</h3>
+<h3 align="center">Technical Writer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; IEEE & ScienceDirect Published</h3>
 
 <p align="center">
   I build software and document it — clearly, practically, and for real developers.
@@ -12,7 +12,7 @@
 
 - Full-Stack Developer working with Python, React, and Node.js
  
-- Technical Writer contributing to **[Vultr](YOUR_VULTR_PROFILE_URL)** and **[freeCodeCamp](https://www.freecodecamp.org/news/author/abdultalha3226/)**
+- Technical Writer contributing to **[Vultr](https://docs.vultr.com/author/abdul-talha)** and **[freeCodeCamp](https://www.freecodecamp.org/news/author/abdultalha3226/)**
 - Open Source Contributor to **[Mautic](https://github.com/mautic/low-no-code/pulls/abdultalha0862)** 
 - Co-authored research published on **IEEE Xplore** and **ScienceDirect (Elsevier)**
 - I write debugging deep dives, automation case studies, and developer tutorials at **[blog.abdultalha.tech](https://blog.abdultalha.tech)**
